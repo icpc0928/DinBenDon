@@ -1,0 +1,6 @@
+logging:
+  level:
+    root: info
+    com.leo: debug
+  file:
+    name: devlogs/debug.log
